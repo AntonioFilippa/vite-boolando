@@ -10,9 +10,8 @@ export default {
             products: [
                 {
                     id: 1,
-                    //collego ad imagini in public//
-                    frontImage: "1.webp",
-                    backImage: "1b.webp",
+                    frontImage: "/assets/img/1.webp",
+                    backImage: "/assets/img//1b.webp",
                     brand: "Levi's",
                     name: "Relaxed Fit",
                     price: 29.99,
@@ -30,8 +29,8 @@ export default {
                 },
                 {
                     id: 2,
-                    frontImage: "2.webp",
-                    backImage: "2b.webp",
+                    frontImage: "/assets/img/2.webp",
+                    backImage: "/assets/img/2b.webp",
                     brand: "Guess",
                     name: "Roses Tee",
                     price: 20.99,
@@ -45,8 +44,8 @@ export default {
                 },
                 {
                     id: 3,
-                    frontImage: "3.webp",
-                    backImage: "3b.webp",
+                    frontImage: "/assets/img/3.webp",
+                    backImage: "/assets/img/3b.webp",
                     brand: "Come Zucchero Filato",
                     name: "Voglia di colori pastello",
                     price: 129.99,
@@ -60,8 +59,8 @@ export default {
                 },
                 {
                     id: 4,
-                    frontImage: "4.webp",
-                    backImage: "4b.webp",
+                    frontImage: "/assets/img/4.webp",
+                    backImage: "/assets/img/4b.webp",
                     brand: "Levi's",
                     name: "Tee Unisex",
                     price: 14.99,
@@ -79,8 +78,8 @@ export default {
                 },
                 {
                     id: 5,
-                    frontImage: "5.webp",
-                    backImage: "5b.webp",
+                    frontImage: "/assets/img/5.webp",
+                    backImage: "/assets/img/5b.webp",
                     brand: "Maya Deluxe",
                     name: "Stripe Bodice",
                     price: 99.99,
@@ -98,8 +97,8 @@ export default {
                 },
                 {
                     id: 6,
-                    frontImage: "6.webp",
-                    backImage: "6b.webp",
+                    frontImage: "/assets/img/6.webp",
+                    backImage: "/assets/img/6b.webp",
                     brand: "Esprit",
                     name: "Maglione - Black",
                     price: 29.99,
