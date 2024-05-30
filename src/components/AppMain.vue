@@ -10,6 +10,7 @@ export default {
             products: [
                 {
                     id: 1,
+                    //collego ad imagini in public//
                     frontImage: "1.webp",
                     backImage: "1b.webp",
                     brand: "Levi's",

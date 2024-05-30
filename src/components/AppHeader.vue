@@ -43,7 +43,7 @@ export default {
           
             <div class="header-logo">
 
-                <img src="../assets/img/boolean-logo.png" alt="logo">
+                <img src="/public/assets/img/boolean-logo.png" alt="logo">
             </div>
             <div class="header-icons">
                 <i class="fa-regular fa-user"></i>
